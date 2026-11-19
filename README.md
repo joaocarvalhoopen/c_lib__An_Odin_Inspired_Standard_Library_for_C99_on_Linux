@@ -1,5 +1,6 @@
 # c_lib — An Odin-Inspired Standard Library for C99 on Linux
-An interesting library.
+An interesting library when you like Odin and want to program in C with the nice features of Odin.
+
 
 
 ## Description
